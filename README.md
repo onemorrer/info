@@ -1,2 +1,2 @@
 # info
-publicinfo
+my name is Artsem
